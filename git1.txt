@@ -1,4 +1,4 @@
-The ff are theareas of the local repo:
-i.Working area
+The following are the stages in the local repo
+iWorking area
 ii.Staging area
 iii.Commit area
