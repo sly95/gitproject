@@ -1,0 +1,4 @@
+The following are the stages in the local repo
+iWorking area
+ii.Staging area
+iii.Commit area
